@@ -48,7 +48,9 @@ Desarrollador front end con experiencia en salud ⛑️
 
 [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/)
 
-# My Skills/Mis habilidades
+# Language and tools/Lenguajes y herramientas
 
-![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![React.js Icon](https://img.icons8.com/ultraviolet/40/000000/react.png) ![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwind-css.png) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![MySQL Icon](https://img.icons8.com/office/40/000000/mysql.png) ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Next.js Icon](https://img.icons8.com/office/40/000000/react.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png) ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png) ![Workspace Icon](https://img.icons8.com/color/48/000000/office-desk.png)
+![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![React.js Icon](https://img.icons8.com/ultraviolet/40/000000/react.png)  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![MySQL Icon](https://img.icons8.com/office/40/000000/mysql.png) ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Next.js Icon](https://img.icons8.com/office/40/000000/react.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png) ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
+- Tailwind CSS
+- Workspace
 
