@@ -44,21 +44,11 @@ Desarrollador front end con experiencia en salud ⛑️
 
 ⚡ Dato curioso: ¡He tenido mis propios emprendimientos, lo que me brinda una perspectiva única como programador y emprendedor!
 
-# Conéctate conmigo
+# Connect with me/Conéctate conmigo
 
 [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/)
 
-# Mis habilidades
+# My Skills/Mis habilidades
 
-- JavaScript (JS)
-- React.js
-- Tailwind CSS
-- HTML
-- CSS
-- Bootstrap
-- MySQL
-- TypeScript
-- Next.js
-- Jira
-- Trello
+![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![React.js Icon](https://img.icons8.com/ultraviolet/40/000000/react.png) ![Tailwind CSS Icon](https://img.icons8.com/color/48/000000/tailwind-css.png) ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![MySQL Icon](https://img.icons8.com/office/40/000000/mysql.png) ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Next.js Icon](https://img.icons8.com/office/40/000000/react.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png) ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png) ![Workspace Icon](https://img.icons8.com/color/48/000000/office-desk.png)
 
