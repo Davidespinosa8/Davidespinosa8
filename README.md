@@ -1,6 +1,6 @@
 # 🇬🇧 Hello there! 👋 I'm Dario David Espinosa
 
-Full-Stack Developer with an accounting background 📊
+Front end Developer health experience ⛑️💫
 
 🚀 Currently working on my own projects and expanding my skill set.
 
@@ -24,7 +24,7 @@ Full-Stack Developer with an accounting background 📊
 
 # 🇪🇸 ¡Hola a todos! 👋 Soy Dario David Espinosa
 
-Desarrollador Full-Stack con experiencia en contabilidad 📊
+Desarrollador front end con experiencia en salud ⛑️
 
 🚀 Actualmente trabajando en mis propios proyectos y ampliando mis habilidades.
 
@@ -43,4 +43,22 @@ Desarrollador Full-Stack con experiencia en contabilidad 📊
 📄 Descubre mi trayectoria profesional en [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
 
 ⚡ Dato curioso: ¡He tenido mis propios emprendimientos, lo que me brinda una perspectiva única como programador y emprendedor!
+
+# Conéctate conmigo
+
+[LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/)
+
+# Mis habilidades
+
+- JavaScript (JS)
+- React.js
+- Tailwind CSS
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+- TypeScript
+- Next.js
+- Jira
+- Trello
 
