@@ -20,7 +20,7 @@ Front end Developer health experience ⛑️💫
 
 ⚡ Fun fact: I've had my own ventures, giving me a unique perspective as both a programmer and entrepreneur!
 
-//////
+
 
 # 🇪🇸 ¡Hola a todos! 👋 Soy Dario David Espinosa
 
