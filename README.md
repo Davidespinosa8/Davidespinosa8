@@ -1,4 +1,4 @@
-# 🇬🇧 Hello there! 👋 I'm Dario David Espinosa
+<div align=center> # 🇬🇧 Hello there! 👋 I'm Dario David Espinosa
 
 Front end Developer health experience ⛑️💫
 
@@ -53,4 +53,5 @@ Desarrollador front end con experiencia en salud ⛑️
 ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![React.js Icon](https://img.icons8.com/ultraviolet/40/000000/react.png)  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![MySQL Icon](https://img.icons8.com/office/40/000000/mysql.png) ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Next.js Icon](https://img.icons8.com/office/40/000000/react.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png) ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
 - Tailwind CSS
 - Workspace
+</div>
 
