@@ -1,57 +1,55 @@
-<div align=center> # 🇬🇧 Hello there! 👋 I'm Dario David Espinosa
+<div align="right"> <img src="https://profile-counter.glitch.me/davidespinosa8/count.svg"></div>
+<br>
 
-Front end Developer health experience ⛑️💫
+<div align="center"> 
+  <h1>  #🇬🇧 - Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm<a href="profile-delta-roan.vercel.app" target="blank"> David</a> - </h1>
 
-🚀 Currently working on my own projects and expanding my skill set.
+  <!--- snake -->
+  <div align="center">
+    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+         alt="snake" /></a>
+  </div>
 
-🌱 Learning Java/PHP/WordPress to broaden my expertise.
-
-🤝 Open to collaborating on challenging projects.
-
-💻 Explore all my projects at [my portfolio](https://myprofile-delta-roan.vercel.app/#portfolio).
-
-✍️ I regularly share insights on [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
-
-💬 Ask me about React with JavaScript and TypeScript.
-
-📧 Reach out to me at ddavidespinosa8@gmail.com.
-
-📄 Discover my professional journey on [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
-
-⚡ Fun fact: I've had my own ventures, giving me a unique perspective as both a programmer and entrepreneur!
-
-
-
-# 🇪🇸 ¡Hola a todos! 👋 Soy Dario David Espinosa
-
-Desarrollador front end con experiencia en salud ⛑️
-
-🚀 Actualmente trabajando en mis propios proyectos y ampliando mis habilidades.
-
-🌱 Aprendiendo Java/PHP/WordPress para expandir mi experiencia.
-
-🤝 Abierto a colaborar en proyectos desafiantes.
-
-💻 Explora todos mis proyectos en [mi portfolio](https://myprofile-delta-roan.vercel.app/#portfolio).
-
-✍️ Comparto regularmente mis conocimientos en [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
-
-💬 Pregúntame sobre React con JavaScript y TypeScript.
-
-📧 Contáctame en ddavidespinosa8@gmail.com.
-
-📄 Descubre mi trayectoria profesional en [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
-
-⚡ Dato curioso: ¡He tenido mis propios emprendimientos, lo que me brinda una perspectiva única como programador y emprendedor!
-
-# Connect with me/Conéctate conmigo
-
-[LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/)
-
-# Language and tools/Lenguajes y herramientas
-
-![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) ![React.js Icon](https://img.icons8.com/ultraviolet/40/000000/react.png)  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![MySQL Icon](https://img.icons8.com/office/40/000000/mysql.png) ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Next.js Icon](https://img.icons8.com/office/40/000000/react.png) ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png) ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
-- Tailwind CSS
-- Workspace
+  <h3> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Front end Developer health experience ⛑️💫 </h3>
+  
+  🚀 Currently working on my own projects and expanding my skill set.
+  
+  🌱 Learning Java/PHP/WordPress to broaden my expertise.
+  
+  🤝 Open to collaborating on challenging projects.
+  
+  💻 Explore all my projects at [my portfolio](https://myprofile-delta-roan.vercel.app/#portfolio).
+  
+  ✍️ I regularly share insights on [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
+  
+  💬 Ask me about React with JavaScript and TypeScript.
+  
+  📧 Reach out to me at ddavidespinosa8@gmail.com.
+  
+  📄 Discover my professional journey on [LinkedIn](https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/).
+  
+  ⚡ Fun fact: I've had my own ventures, giving me a unique perspective as both a programmer and entrepreneur!
+  
+  
+ <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+   <p align="center">
+  <a href="https://www.linkedin.com/in/dar%C3%ADo-david-espinosa-b50972258/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://discordapp.com/users/1229883350630535270" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>   
+   </p>
+</div>
+  
+   <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    </ul>
+  </div>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,firebase,github,html,js,materialui,mysql,nextjs,postman,react,tailwind,ts,bootstrap,vscode,workspace&perline=14" />
+  </a>
+  
 </div>
 
