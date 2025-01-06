@@ -6,8 +6,8 @@
 
   <!--- snake -->
   <div align="center">
-    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-         alt="snake" /></a>
+    <img  src="https://github.com/Davidespinosa8/Davidespinosa8/issues/1#issue-2770621198"
+         alt="Goku KHH" /></a>
   </div>
 
   <h3> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Front end Developer health experience ⛑️💫 </h3>
