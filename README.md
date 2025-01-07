@@ -6,7 +6,7 @@
 
   <!--- Goku -->
   <div align="center">
-    <img  src="https://private-user-images.githubusercontent.com/115182311/400430132-80765c30-abf1-41cb-b89f-e1e2099ef7b4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYxNjk0MjQsIm5iZiI6MTczNjE2OTEyNCwicGF0aCI6Ii8xMTUxODIzMTEvNDAwNDMwMTMyLTgwNzY1YzMwLWFiZjEtNDFjYi1iODlmLWUxZTIwOTllZjdiNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwNlQxMzEyMDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMjU5MzU4MDQxMzc4MWE3OGE2MjZmMmJkMjA0NDhlMmE5OTFiYjUyOWVlMjhkMWI1MDViMWFhYmJmOTY4MmI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vEQ9SS82oeP75bi535_Kf-_0eXeEkwCp2oqhHcjCs5E"
+    <img  src="https://github.com/Davidespinosa8/Davidespinosa8/issues/1#issue-2770621198"
          alt="Goku KHH" /></a>
   </div>
 
