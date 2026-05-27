@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://profile-counter.glitch.me/davidespinosa8/count.svg" alt="Profile views" />
-</div>
-
 <br />
 
 <div align="center">
@@ -27,6 +23,10 @@ I care about how a product looks, how it communicates, how it converts and how i
 [![Email](https://img.shields.io/badge/Email-ddavidespinosa8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddavidespinosa8@gmail.com)
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidespinosa8&label=Profile%20views&color=7d4db0&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
